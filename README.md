@@ -1,4 +1,6 @@
-# ![company logo](Images/Logos/Home.svg)
+# README
+
+<img align="center" width="300" height="300" src=Images/Logos/Home.svg>
 
 - An app that:
   - Can help you connect with like-minded people that would be perfect as roommates
