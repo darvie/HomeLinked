@@ -1,4 +1,4 @@
-# ![company logo](images/Logos/Home.svg)
+# ![company logo](Images/Logos/Home.svg)
 
 - An app that:
   - Can help you connect with like-minded people that would be perfect as roommates
